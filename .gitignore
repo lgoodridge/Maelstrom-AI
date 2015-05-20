@@ -1,0 +1,16 @@
+# Products
+Maelstrom
+Maelstrom-netd
+Makefile
+macres
+playwave
+snd2wav
+
+# Build Files
+config.*
+*.o
+*.a
+
+# Temp Files
+.*.sw*
+*~
